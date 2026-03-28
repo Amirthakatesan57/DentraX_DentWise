@@ -1,7 +1,6 @@
 <h1 align="center">🦷 Dentwise – Dental Platform with AI Voice Agent 🦷</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-success?style=for-the-badge)](https://dentrax-dentwise.onrender.com/)
 Highlights:
 
 - 🏠 Modern Landing Page with gradients & images
