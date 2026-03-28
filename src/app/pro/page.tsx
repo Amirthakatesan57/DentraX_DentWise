@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import Navbar from "@/components/Navbar";
 import { PricingTable } from "@clerk/nextjs";
 import { auth, currentUser } from "@clerk/nextjs/server";
