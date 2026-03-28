@@ -1,5 +1,3 @@
-export const dynamic = "force-dynamic";
-
 import Navbar from "@/components/Navbar";
 import FeatureCards from "@/components/voice/FeatureCards";
 import ProPlanRequired from "@/components/voice/ProPlanRequired";

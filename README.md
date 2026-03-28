@@ -18,7 +18,6 @@ Highlights:
 - 📂 PostgreSQL for Data Persistence
 - 🎨 Styling with Tailwind CSS + Shadcn
 - ⚡ Data Fetching with TanStack Query
-- 🚀 Deployment on Sevalla (free-tier friendly)
 
 ---
 
